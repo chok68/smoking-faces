@@ -9,6 +9,10 @@ This is a command line tool that analyze videos and detects if a person is smoki
 
 [https://youtu.be/8t70o5xGK60](https://youtu.be/8t70o5xGK60)
 
+## Installation video
+
+[https://youtu.be/z45phsGa-BI](https://youtu.be/z45phsGa-BI)
+
 ## Setup
 
 - Windows 10
